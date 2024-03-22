@@ -8,7 +8,7 @@ while True:
     # Issue1 :a add print menu    print("\nMenu:") (commit 2 times)
     # Ta
    
-
+    print("Menu")
     # issue2 : Input choice (commit 1 times)
     # Seiha
     user_input = input("Enter your choice (1-4): ")
