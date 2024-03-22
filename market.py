@@ -37,7 +37,8 @@ while True:
             print(f"{pro_name} not found in inventory.")
     # issue3 : Create option to quit (commit 1 time)
     # Tra
-   
+elif:
+    print("Quit the program")
     # issue4 : Create else (commit 3 times)
     # Raksa
       
