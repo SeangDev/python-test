@@ -6,7 +6,11 @@ item_dic = {"Coffee" : 7, "Pen" : 3, "Paper cup": 2, "Milk" : 1, "Coke" : 4, "Bo
 
 while True:
     # Issue1 :a add print menu    print("\nMenu:") (commit 2 times)
-    # Ta
+    print("Menu")
+    print("1  Inventory inquiry")
+    print("2  In stock")
+    print("3 Out of stock")
+    print("4 Quit")
    
 
     # issue2 : Input choice (commit 1 times)
