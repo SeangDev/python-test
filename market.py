@@ -11,7 +11,7 @@ while True:
 
     # issue2 : Input choice (commit 1 times)
     # Seiha
-    
+    user_input = input("Enter your choice (1-4): ")
 
     if user_input == "1":
         pro_name = input("Enter the name of the product: ")
