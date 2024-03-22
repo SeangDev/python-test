@@ -32,7 +32,7 @@ while True:
         qty = int(qty) # convert qty
         if pro_name in item_dic: 
             item_dic[pro_name] -= qty # increase user_input product.
-        
+            print("HEllo world")
         else:
             print(f"{pro_name} not found in inventory.")
     # issue3 : Create option to quit (commit 1 time)
